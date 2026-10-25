@@ -16,14 +16,6 @@ Your Moneda account is also available to the tools you already use, with permiss
 
 Start with the [quickstart](https://docs.moneda.com/getting-started/quickstart), or read the full docs at [docs.moneda.com](https://docs.moneda.com).
 
-## Open source
-
-Moneda accounts are self-custodial smart accounts. We publish the recovery work behind them:
-
-- [social-recovery](https://github.com/MonedaIO/social-recovery): smart account modules, audits, tests and formal verification
-- [email-recovery](https://github.com/MonedaIO/email-recovery): account recovery for any smart wallet with ZK Email (ERC-7579 and ERC-4337)
-- [relayer-utils](https://github.com/MonedaIO/relayer-utils), [relayer-imap](https://github.com/MonedaIO/relayer-imap), [relayer-smtp](https://github.com/MonedaIO/relayer-smtp): Rust building blocks for ZK Email relayers
-
 ## Links
 
 [Website](https://moneda.com) · [Docs](https://docs.moneda.com) · [Blog](https://moneda.com/blog) · [X](https://x.com/moneda_com) · [LinkedIn](https://www.linkedin.com/company/moneda-com/) · [Careers](https://moneda.com/careers)
