@@ -1,6 +1,6 @@
 # Moneda
 
-**AI does the research. You make the call.**
+**AI Does the Research. You Make the Call. That's Co-Investing.**
 
 [Moneda](https://moneda.com) is an investing app made in Europe. Ask Moneda AI, the agent, about a stock or your own portfolio. It reads company filings, earnings calls and market data and shows you where every number comes from, with the case for and against. When you have decided, you invest in US-listed stocks, ETFs or crypto in the same app, approving every trade with your passkey.
 
